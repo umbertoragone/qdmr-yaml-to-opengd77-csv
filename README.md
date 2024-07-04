@@ -68,7 +68,7 @@ Ensure the following directory structure for the script to locate the YAML file 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](?tab=MIT-1-ov-file) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
