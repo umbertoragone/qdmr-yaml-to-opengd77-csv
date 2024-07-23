@@ -65,7 +65,7 @@ def get_channel_name(channel):
         name = channel.get('name', '')
         # Check if channel name is a float (e.g. 430.300)
         if type(name) is float:
-            return '{0:.3f}'.format(name)
+            return f"{name:.3f}"
         return name
     elif isinstance(channel, str):
         return channel
